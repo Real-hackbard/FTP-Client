@@ -1,0 +1,197 @@
+[Closed Files]
+File_0=SourceModule,'D:\Incoming\[.WORK]\[Source]\HTML Color Fade 1.0 Source\Unit1.pas',0,1,278,1,1,0,1
+File_1=SourceModule,'D:\Incoming\[.WORK]\[Source]\Ping Analyzer\Fenetre_Analyseur.pas',0,1,1,1,1,0,1
+File_2=SourceModule,'D:\Incoming\[.WORK]\[Source]\Ping Analyzer\Unit1.pas',0,1,30,1,106,0,0
+File_3=SourceModule,'D:\Incoming\[.WORK]\[Source]\Networking\Unit1.pas',0,1,1,55,7,0,1
+File_4=SourceModule,'D:\[Coderz]\Projekte Delphi 7\MenueBoxes\[Web]\HTTP.Upload\uMain.pas',0,1,42,7,71,0,0
+File_5=SourceModule,'D:\[Coderz]\Projekte Delphi 7\MenueBoxes\[Web]\HTMLSrcToFile\main.pas',0,1,1,1,1,0,1
+File_6=SourceModule,'D:\[Coderz]\Projekte Delphi 7\MenueBoxes\[Web]\FTP.CLIENT.SERVER\Unit1.pas',0,1,31,1,41,0,0
+File_7=SourceModule,'C:\Program Files\Borland\Delphi7\Lib\DFFileInfo.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\Program Files\Borland\Delphi7\Lib\Bass_Dynamic.pas',0,1,1,1,1,0,0
+File_9=SourceModule,'C:\Eigene Dateien\FlatStyle\FlatUtilitys.pas',0,1,43,21,76,0,0
+
+[Modules]
+Module0=D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\Unit1.pas
+Module1=D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\FTPClient.dpr
+Count=2
+EditWindowCount=1
+
+[D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\Unit1.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\FTPClient.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=2
+CurrentView=1
+View0=0
+View1=1
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=1549
+Top=299
+Width=1011
+Height=628
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=995
+ClientHeight=589
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F726572000000000000000000000000000000000001000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=85
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=0000040000000000E303000000000000025500000000000000010000000000000000000000000100000000E30300000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\FTPClient.dpr
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=D:\Incoming\[.WORK]\[Source]\FTP Client 1.0 Source\Unit1.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=2
+Left=1227
+Top=21
+Width=1366
+Height=123
+MaxLeft=-1
+MaxTop=-1
+MaxWidth=1296
+MaxHeight=149
+ClientWidth=1280
+ClientHeight=110
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=318
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=318
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=125
+Width=156
+Height=89
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=1378
+Top=405
+Width=190
+Height=508
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=469
+TBDockHeight=380
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=Name
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=1374
+Top=145
+Width=190
+Height=256
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=217
+TBDockHeight=256
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=12
+Width=140
+Height=434
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=434
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=983
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=983
+ClientHeight=85
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
