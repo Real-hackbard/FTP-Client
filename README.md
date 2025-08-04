@@ -1,5 +1,13 @@
 # FTP-Client:
 
+```
+Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
+Components  : None
+Discription : File Transfer Protocol Tool
+Last Update : 08/2025
+License     : Freeware
+```
+
 An FTP client is software that uses the File Transfer Protocol (FTP) to connect to an FTP server. This allows users to upload, download, manage, and organize files stored on a remote server. FTP is a common protocol for file transfer, and an FTP client provides a user-friendly interface for these tasks.
 
 
