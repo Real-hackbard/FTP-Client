@@ -1,6 +1,6 @@
 # FTP-Client:
 
-```
+```ruby
 Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
 Components  : None
 Discription : File Transfer Protocol Tool
@@ -14,7 +14,7 @@ An FTP client is software that uses the File Transfer Protocol (FTP) to connect 
 ![FTP Client](https://github.com/user-attachments/assets/d4e581e7-235b-4547-8fac-683ec0ea34ab)
 
 
-Website updates:
+### Website updates:
 FTP clients are essential for updating websites, as they allow you to upload and download files to and from the web server.
 File management:
 You can organize, delete, rename, and edit files on the server.
